@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Gardenia Toastem Raisin",
+    "onSale": false,
+    "tags": ["Grocery", "Bread"],
+    "image": "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "description": "Raisins are rich in fibre, vitamins, and minerals. Top that with the yummy goodness of butter! Tastes even better when toasted.",
+    "price": 5,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 2,
+    "name": "Strawberry Cake",
+    "onSale": true,
+    "tags": ["Cake", "Bread"],
+    "image": "https://images.pexels.com/photos/461431/pexels-photo-461431.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "description": "Strawberry shortcake is typically made with a biscuit-like cake or scone that is split and filled with strawberries and sweetened whipped cream. It's a dessert that is easy to make and really highlights the berries. The name actually dates back long before this current shortcake first appeared",
+    "price": 85,
+    "salePrice": 75,
+    "ratings": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Hot Coffee",
+    "onSale": true,
+    "tags": ["Beverages", "Coffee"],
+    "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "description": "Great hot brewed coffee has a rounded flavor, a satisfying aroma, a gentle sweetness, a crisp acidity, and a hint of lower bitter notes to wrap it all together.",
+    "price": 10,
+    "salePrice": 8,
+    "ratings": 4.5
+  },
+  {
+    "id": 4,
+    "name": "Coca Cola",
+    "onSale": false,
+    "tags": ["Beverages", "SoftDrinks"],
+    "image": "https://images.pexels.com/photos/3686790/pexels-photo-3686790.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "description": "Coca-Cola is a carbonated, sweetened soft drink and is the world's best-selling drink. A popular nickname for Coca-Cola is Coke. The Coca-Cola Company claims that the beverage is sold in more than 200 countries.",
+    "price": 3,
+    "salePrice": null,
+    "ratings": 4
+  },
+  {
+    "id": 5,
+    "name": "Fresh Tomatoes",
+    "onSale": true,
+    "tags": ["Vegetables", "Tomatoes"],
+    "image": "https://images.pexels.com/photos/533280/pexels-photo-533280.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "description": "Tomatoes are rich in lycopene, an antioxidant that is good for the heart and effective against certain cancers. Tomatoes are also packed with vitamins A and C, calcium and potassium",
+    "price": 12,
+    "salePrice": 8,
+    "ratings": 3.5
+  },
+  {
+    "id": 6,
+    "name": "Long Bean",
+    "onSale": false,
+    "tags": ["Vegetables", "Long Bean"],
+    "image": "https://media.istockphoto.com/photos/longbean-picture-id95927788?b=1&k=20&m=95927788&s=612x612&w=0&h=ZV5mOakGPOSc49uLDq4G-SmdIgdBpZMVngP6LWH0Gi8=",
+    "description": "The long bean is also known as the long-podded cowpea, asparagus bean, snake bean, or Chinese long bean. They have a very pronounced flavor and have a distinctly beany taste, and are not sweet like the green bean. Long beans work best briefly steamed, stir-fried, or braised, but also hold up well when added to stews.",
+    "price": 2,
+    "salePrice": null,
+    "ratings": 4
+  },
+  {
+    "id": 7,
+    "name": "Pop Corn",
+    "onSale": false,
+    "tags": ["Snack", "Pop Corn"],
+    "image": "https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg?auto=compress&cs=tinysrgb&w=1600",
+    "description": "Popcorn is a snack which consists of grains of maize or corn that have been heated until they have burst and become large and light. It can be eaten with salt or sometimes sugar.",
+    "price": 4,
+    "salePrice": null,
+    "ratings": 4
+  },
+  {
+    "id": 8,
+    "name": "Chocolate Bar",
+    "onSale": false,
+    "tags": ["Snack", "Chocolate"],
+    "image": "https://images.pexels.com/photos/4791265/pexels-photo-4791265.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "description": "A chocolate bar (Commonwealth English) or candy bar (some dialects of American English) is a confection containing chocolate, which may also contain layerings or mixtures that include nuts, fruit, caramel, nougat, and wafers. A flat, easily breakable, chocolate bar is also called a tablet.",
+    "price": 5,
+    "salePrice": null,
+    "ratings": 4
+  },
+  {
+    "id": 9,
+    "name": "Jack Daniels Whiskey",
+    "onSale": false,
+    "tags": ["Alcohol", "Whiskey"],
+    "image": "https://images.pexels.com/photos/543725/pexels-photo-543725.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "description": "Light with plenty of sweetness. There are hints of dry spice and oily nuts, a touch of smoke. Palate: Quite smooth and soft with notes of banana milkshake, a mixed nut note, a touch of caramel with crème anglaise. Finish: Sweet with a little cereal sweetness and toasty oak.",
+    "price": 60,
+    "salePrice": null,
+    "ratings": 4
+  },
+  {
+    "id": 10,
+    "name": "Glenfiddich 12",
+    "onSale": false,
+    "tags": ["Alcohol", "Whiskey"],
+    "image": "https://images.pexels.com/photos/1694853/pexels-photo-1694853.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "description": "Creamy with a long, smooth and mellow finish, our 12 Year Old is the perfect example of Glenfiddich's unique Speyside style and is widely proclaimed the best dram in the valley. Flowing in the Valley of the Deer since 1887, our family's signature expression is the world's most awarded single malt Scotch whisky*",
+    "price": 75,
+    "salePrice": null,
+    "ratings": 4
+  }
+]

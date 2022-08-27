@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Bread",
+    "image": "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  },
+  {
+    "id": 2,
+    "name": "Beverages",
+    "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  },
+  {
+    "id": 3,
+    "name": "Vegetables",
+    "image": "https://images.pexels.com/photos/533280/pexels-photo-533280.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  },
+  {
+    "id": 4,
+    "name": "Snack",
+    "image": "https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg?auto=compress&cs=tinysrgb&w=1600"
+  },
+  {
+    "id": 5,
+    "name": "Alcohol",
+    "image": "https://images.pexels.com/photos/543725/pexels-photo-543725.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  }
+]
