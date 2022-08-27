@@ -1,5 +1,42 @@
 # Lee Grocery Store
 
+This is a simple Ecommerce project specific on selling groceries. Project are built using NuxtJS, Vuetify with SweetAlert2 CSS library. I designed the cart system for this project as for CRUD operation.
+
+CRUD:
+Create: Add product to cart
+Read: View product that are added to cary in shopping cart page
+Update: Update quantity of products in cart page
+Delete: Remove product from cart
+
+Functions:
+Homepage
+- Homepage Carousel (Able to slide)
+- Product Slider (Able to slide)
+- Newsletter (Only UI)
+- Back to Top button
+
+Navigation Bar
+- Navigate to Product page
+- Navigate to Shopping cart
+- Switch to dark mode
+
+Footer
+- Only UI
+
+Product page
+- Allow to search Products
+- Categories (Only UI)
+- Product will navigate to product details page
+- Allow to add to cart
+
+Shopping Cart page
+- Able to add or minus quantity
+- Able to remove product from cart
+- Able to checkout
+
+Checkout page
+- Form Validation (Data are not saved after complete)
+
 ## Build Setup
 
 ```bash
